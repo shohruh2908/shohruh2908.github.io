@@ -1,0 +1,37 @@
+body {
+    background-color:#F5DEB3;
+}
+
+h1 {
+  font-size: 45px;
+  text-shadow: 4px 3px #FFFFFF;
+    color: #F5F5F5;
+    text-align: right;
+  
+}
+h2 {
+  font-size: 40px;
+  font-family: verdana;
+  text-shadow: 3px 2px #FFFFFF;
+    color: #F5F5F5;
+    text-align: center;
+  
+}
+h3 {
+  font-size: 27px;
+  font-family: Courier New;
+    color: #D3D3D3;
+    text-align: center;
+}
+h2 {
+  font-size: 25px;
+  font-family: verdana;
+    color: #D3D3D3;
+    text-align: left;
+}
+
+p {
+    font-family: verda;
+    font-size: 20px;
+  color: #708090;
+}
